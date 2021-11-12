@@ -1,0 +1,65 @@
+ 
+
+
+.top-container {
+        height: 100%;
+        width: 100%;
+        box-sizing: border-box;
+        background-image: url(https://www.kastapp.co/images/gradient-violet-bg.jpg); 
+     text-align: center;
+      
+}
+
+.button1 {
+        
+     
+}
+           
+
+.navbarlist {
+  
+
+}
+ 
+.logo {
+ float: left;
+ 
+}
+
+.button2 {
+  
+}
+
+
+.laptop {
+padding-top: 200px;
+        padding-left: 560px;
+          
+width: 60%;
+        }
+
+.middle-container {
+position: absolute;
+        border: black 3px;
+height: 100%;        
+width: 100%;
+        background-color: white;
+text-align: center;
+}
+.picgrid {
+display: grid;
+max-width: 880px;
+margin-right: auto;
+margin-bottom: 75px;
+margin-left: auto;
+grid-template-columns: 200px 200px 200px;
+grid-template-rows: 74px 58px;
+align-items: center;
+grid-column-gap: 135px;
+text-align: center;
+}
+
+
+
+
+  
